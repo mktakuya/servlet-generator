@@ -1,6 +1,6 @@
 # Javaサーブレットのアレ
 苫小牧高専 情報工学科4年 情報工学実験 Webアプリケーションで使うやつ。
-無限に out.println("<p>paragraph</p>); を書かないために。
+無限に ```out.println("<p>paragraph</p>);``` を書かないために。
 
 ## 使い方
 Rubyがあれば動きます。
